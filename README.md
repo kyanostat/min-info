@@ -20,7 +20,7 @@ The codes
 
 - min-info.R : definition of the functions used
 - min-info.py : definition of the functions used
-- min-info.ipynb: the instruction of the usage
+- min-info.ipynb: the instruction of the usage (created by using Google Colaboratory; filepath should be adequately changed)
 - Mechsol_format.csv: Mechanism solution catalog :The original catalog is in the web page of Japan Meteological Agency and processed by the authors.
 
 References:
