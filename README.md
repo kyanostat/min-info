@@ -23,7 +23,7 @@ The codes
 - min-info.ipynb: the instruction of the usage (created by using Google Colaboratory; filepath should be adequately changed)
 - Mechsol_format.csv: Mechanism solution catalog :The original catalog is in the web page of Japan Meteological Agency and processed by the authors.
 
-![画像の説明](images/Figure_PoissonBeta.png "hero")
+![Sampling from minimum information dependence model with Poisson /Beta marginals](img/Figure_PoissonBeta.png "Poisson Beta marginals")
 
 
 References:
