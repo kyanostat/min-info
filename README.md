@@ -23,6 +23,9 @@ The codes
 - min-info.ipynb: the instruction of the usage (created by using Google Colaboratory; filepath should be adequately changed)
 - Mechsol_format.csv: Mechanism solution catalog :The original catalog is in the web page of Japan Meteological Agency and processed by the authors.
 
+![画像の説明](images/Figure_PoissonBeta.png "hero")
+
+
 References:
 -  JAPAN METEOROLOGICAL AGENCY (2022). The seismological bulletin of Japan. https://www.data.jma.go.jp/svd/eqev/data/bulletin/index_e.html.
 -  A. Horst, A. Hill, K. Gorman (2020). palmerpenguins: Palmer Archipelago (Antarctica) penguin data. R package version 0.1.0. https://allisonhorst.github.io/palmerpenguins/. doi: 10.5281/zenodo.3960218.
