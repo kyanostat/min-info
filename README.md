@@ -36,8 +36,8 @@ such that $a_{j}(x_j;\theta,\nu)$ and $\psi(\theta,\nu)$ are determined by marig
 
 Here are the properties of the model:
 
-* The model admits various types of the domains of variables (say, continuou/categorical/manifold/etc...) and various types of dependence (higher-order interaction/negative interaction/etc...)
-
+* The model admits various types of the domains of variables (say, continuou/categorical/manifold/etc...) 
+* The model admits various types of dependence (higher-order interaction/negative interaction/etc...)
 * Two parameters $\theta$ and $\nu$ are parameters on the joint part (dependence parameter) and the marginal part (marginal parameter), respectively.
 
 
@@ -48,11 +48,10 @@ An example of the minimum information dependence model of Poisson and Beta margi
 
 ## 2. Inference 
 
-We discuss the inference on $\theta$ (dependence parameter).
 
-There are two options to this end:
-* Conditional likelihood 
-* Besag' pseudo likelihood
+There are two options for the inference on $\theta$ (dependence parameter):
+* Conditional likelihood estimation (CLE)
+* Besag' pseudo likelihood estimation (PLE)
 
 
 ## References:
