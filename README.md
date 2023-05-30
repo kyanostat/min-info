@@ -32,13 +32,14 @@ The minimum information dependence model is a joint model for a mixed-domain dat
 
 $p(x; \theta, \nu)=\exp(\theta^{\top}h(x)-\sum_{j=1,\ldots,d}a_{j}(x_j;\theta,\nu)-\psi(\theta,\nu))\prod_{j=1,\ldots,d}r_{j}(x_{j};\nu)$
 
-such that $a_{j}(x_j;\theta,\nu)$ and $\psi(\theta,\nu)$ are determined by
+such that $a_{j}(x_j;\theta,\nu)$ and $\psi(\theta,\nu)$ are determined by mariginal condition $\int p(x;\theta,\nu)dx_{-j}=r_{j}(x_{j};\nu)$ and identifiability condition $\int \sum_{j=1,\ldots,d} a_{j}(x_{j};\theta,\nu) p(x;\theta,\nu)dx=0$.
 
---mariginal condition $\int p(x;\theta,\nu)dx_{-j}=r_{j}(x_{j};\nu)$
+Here are the properties of the model:
 
---identifiability condition $\int \sum_{j=1,\ldots,d} a_{j}(x_{j};\theta,\nu) p(x;\theta,\nu)dx=0$.
+* The model admits various types of the domains of variables (say, continuou/categorical/manifold/etc...) and various types of dependence (higher-order interaction/negative interaction/etc...)
 
-The model admits various types of the domains of variables (say, continuou/categorical/manifold/etc...) and various types of dependence (higher-order interaction/negative interaction/etc...)
+* Two parameters $\theta$ and $\nu$ are parameters on the joint part (dependence parameter) and the marginal part (marginal parameter), respectively.
+
 
 An example of the minimum information dependence model of Poisson and Beta marginals with a negative interaction is given in the following figure:
 
@@ -47,10 +48,13 @@ An example of the minimum information dependence model of Poisson and Beta margi
 
 ## 2. Inference 
 
+We discuss the inference on $\theta$ (dependence parameter).
+
+There are two options to this end:
+* Conditional likelihood 
+* Besag' pseudo likelihood
 
 
-
-
-References:
+## References:
 -  JAPAN METEOROLOGICAL AGENCY (2022). The seismological bulletin of Japan. https://www.data.jma.go.jp/svd/eqev/data/bulletin/index_e.html.
 -  A. Horst, A. Hill, K. Gorman (2020). palmerpenguins: Palmer Archipelago (Antarctica) penguin data. R package version 0.1.0. https://allisonhorst.github.io/palmerpenguins/. doi: 10.5281/zenodo.3960218.
