@@ -43,7 +43,7 @@ Here are the properties of the model:
 * Two parameters $\theta$ and $\nu$ are parameters on the joint part (dependence parameter) and the marginal part (marginal parameter), respectively.
 
 
-Gallery of the minimum information dependence model 
+### Gallery of the minimum information dependence model:
 
 * A. (count & interval) Poisson and Beta marginals with a negative interaction
 <img src="img/Figure_PoissonBeta.png" width="520px">
@@ -66,7 +66,7 @@ In contrast, PLE offers a less powerful version at a lower computation cost.
 We provide uncertainty evaluation methods for both estimation schemes.
 
 
-Gallery of the inference based on the minimum information dependence model
+### Gallery of the inference based on the minimum information dependence model
 
 * A. Graphical model of continuous and categorical data
 
