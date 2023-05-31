@@ -75,6 +75,7 @@ We use Palmer Archipelago penguin data.
 * B. Dependence pattern of the mechanism solutions (2-orthogonal frames) and the depths (real values)
 
 We use the Japan meteorological agency catalog of earthquakes.
+
 <img src="img/Figure_mechdepth.png" width="520px">
 
 
