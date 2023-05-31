@@ -60,6 +60,9 @@ Gallery of the minimum information dependence model
 There are two options for the inference on $\theta$ (dependence parameter):
 * Conditional likelihood estimation (CLE)
 * Besag' pseudo likelihood estimation (PLE)
+Generally, CLE has better statistical performance but is computationally expensive.
+In contrast, PLE offers a less powerful version at a lower computation cost.
+
 
 
 ## References:
