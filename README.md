@@ -68,10 +68,12 @@ We provide uncertainty evaluation methods for both estimation schemes.
 
 Gallery of the inference based on the minimum information dependence model
 
-* A. 
+* A. Graphical model of continuous and categorical data
+We use Palmer Archipelago penguin data.
  
 * B. Dependence pattern of the mechanism solutions (2-orthogonal frames) and the depths (real values)
-<img src="img/Figure_mechadepth.png" width="520px">
+We use the Japan meteorological agency catalog of earthquakes.
+<img src="img/Figure_mechdepth.png" width="520px">
 
 
 ## References:
