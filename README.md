@@ -42,11 +42,13 @@ Here are the properties of the model:
 * Two parameters $\theta$ and $\nu$ are parameters on the joint part (dependence parameter) and the marginal part (marginal parameter), respectively.
 
 
-An example of the minimum information dependence model of Poisson and Beta marginals with a negative interaction is given in the following figure:
-* The left figure represents independent model
-* The right figure represents dependent model
+Several garallies of the minimum information dependence model 
+
+* A. Poisson and Beta marginals with a negative interaction
 <img src="img/Figure_PoissonBeta.png" width="520px">
+* B. Exponential and Poisson marginals with a positive interaction
 <img src="img/Figure_ExponentialPoisson_positive.png" width="520px">
+* C. Exponential and Poisson marginals with a negative interaction
 <img src="img/Figure_ExponentialPoisson_negative.png" width="520px">
 
 ## 2. Inference 
