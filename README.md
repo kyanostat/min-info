@@ -63,7 +63,8 @@ There are two options for the inference on $\theta$ (dependence parameter):
 
 Generally, CLE has better statistical performance but is computationally expensive.
 In contrast, PLE offers a less powerful version at a lower computation cost.
-We provide uncertainty evaluation methods for both estimation schemes.
+
+Our codes implement both estimation schemes as well as the uncertainty evaluation methods.
 
 
 ### Gallery of the inference based on the minimum information dependence model
