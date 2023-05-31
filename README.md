@@ -47,6 +47,9 @@ An example of the minimum information dependence model of Poisson and Beta margi
 * The right figure represents dependent model
 ![Sampling from minimum information dependence model with Poisson /Beta marginals](img/Figure_PoissonBeta.png "Poisson Beta marginals")
 
+![Sampling from minimum information dependence model with Exponential /Poisson marginals](img/Figure_ExponentialPoisson_positive.png "Exponential Poisson marginals with positive dependence")
+
+![Sampling from minimum information dependence model with Exponential /Poisson marginals](img/Figure_ExponentialPoisson_negative.png "Exponential Poisson marginals with negative dependence")
 
 ## 2. Inference 
 
