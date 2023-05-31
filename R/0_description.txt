@@ -1,0 +1,17 @@
+The main code of the minimum information dependence modeling is "min-info.R".
+
+Table 1 (count data) uses "poisson_table.R" and "poisson_exact.R".
+
+Table 3 (Gaussian, AR(1) with rho=1/2) in Subsection 4.1 together with computational time uses "demo_time.R".
+
+Table 4 (Gaussian with other parameters) in Subsection 4.1 uses "demo_more.R"
+
+Table 5 (3dim with theta=(1,0,0,-1)) in Subsection 4.2 uses "simulation-3dim.R"
+
+Table 6 (3dim with other parameters) uses "demo_more_3dim.R"
+
+Table 7 (beta-Poisson) in Subsection 4.3 uses "demo_more_hybrid.R"
+
+Data analysis in Subsection 5.1 (penguins) uses "penguin.R".
+
+Data analysis in Subsection 5.2 (earthquake) uses "min-info-quake.R" and "Mechsol_format.csv".
