@@ -42,7 +42,7 @@ Here are the properties of the model:
 * Two parameters $\theta$ and $\nu$ are parameters on the joint part (dependence parameter) and the marginal part (marginal parameter), respectively.
 
 
-Several garallies of the minimum information dependence model 
+Gallery of the minimum information dependence model 
 
 * A. Poisson and Beta marginals with a negative interaction
 <img src="img/Figure_PoissonBeta.png" width="520px">
