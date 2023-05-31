@@ -21,9 +21,9 @@ Abstract: We propose a method of constructing a joint statistical model for mixe
 
 - min-info.R : definition of the functions used
 - min-info.py : definition of the functions used
-- R folder: 
+- R folder: source files for R 
 - Python folder: min-info_introduction.ipynb: the instruction of the usage (created by using Google Colaboratory; filepath should be adequately changed)
-- Mechsol_format.csv: Mechanism solution catalog :The original catalog is in the web page of Japan Meteological Agency and processed by the authors.
+- Each folder contains Mechsol_format.csv: Mechanism solution catalog (The original catalog is in the web page of Japan Meteological Agency and processed by the authors.)
 
 # Brief summary of the minimum information dependence model
 
@@ -45,11 +45,9 @@ Here are the properties of the model:
 An example of the minimum information dependence model of Poisson and Beta marginals with a negative interaction is given in the following figure:
 * The left figure represents independent model
 * The right figure represents dependent model
-![Sampling from minimum information dependence model with Poisson /Beta marginals](img/Figure_PoissonBeta.png "Poisson Beta marginals")
-
-![Sampling from minimum information dependence model with Exponential /Poisson marginals](img/Figure_ExponentialPoisson_positive.png "Exponential Poisson marginals with positive dependence")
-
-![Sampling from minimum information dependence model with Exponential /Poisson marginals](img/Figure_ExponentialPoisson_negative.png "Exponential Poisson marginals with negative dependence")
+<img src="img/Figure_PoissonBeta.png" width="320px">
+<img src="img/Figure_ExponentialPoisson_positive.png" width="320px">
+<img src="img/Figure_ExponentialPoisson_negative.png" width="320px">
 
 ## 2. Inference 
 
