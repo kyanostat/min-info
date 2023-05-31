@@ -21,7 +21,8 @@ Abstract: We propose a method of constructing a joint statistical model for mixe
 
 - min-info.R : definition of the functions used
 - min-info.py : definition of the functions used
-- min-info_introduction.ipynb: the instruction of the usage (created by using Google Colaboratory; filepath should be adequately changed)
+- R folder: 
+- Python folder: min-info_introduction.ipynb: the instruction of the usage (created by using Google Colaboratory; filepath should be adequately changed)
 - Mechsol_format.csv: Mechanism solution catalog :The original catalog is in the web page of Japan Meteological Agency and processed by the authors.
 
 # Brief summary of the minimum information dependence model
