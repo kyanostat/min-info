@@ -68,7 +68,7 @@ We provide uncertainty evaluation methods for both estimation schemes.
 
 ### Gallery of the inference based on the minimum information dependence model
 
-* A. Graphical model of continuous and categorical data
+* A. Graphical model of continuous and categorical data (with the consideration of higher interaction)
 
 We use Palmer Archipelago penguin data.
  
