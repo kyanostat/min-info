@@ -70,8 +70,8 @@ Gallery of the inference based on the minimum information dependence model
 
 * A. 
  
-* B. 
-<img src="img/Figure_mechanismsolutionanddepth.png" width="520px">
+* B. Dependence pattern of the mechanism solutions (2-orthogonal frames) and the depths (real values)
+<img src="img/Figure_mechadepth.png" width="520px">
 
 
 ## References:
