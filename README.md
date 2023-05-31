@@ -45,9 +45,9 @@ Here are the properties of the model:
 An example of the minimum information dependence model of Poisson and Beta marginals with a negative interaction is given in the following figure:
 * The left figure represents independent model
 * The right figure represents dependent model
-<img src="img/Figure_PoissonBeta.png" width="320px">
-<img src="img/Figure_ExponentialPoisson_positive.png" width="320px">
-<img src="img/Figure_ExponentialPoisson_negative.png" width="320px">
+<img src="img/Figure_PoissonBeta.png" width="520px">
+<img src="img/Figure_ExponentialPoisson_positive.png" width="520px">
+<img src="img/Figure_ExponentialPoisson_negative.png" width="520px">
 
 ## 2. Inference 
 
