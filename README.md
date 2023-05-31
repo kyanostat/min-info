@@ -46,8 +46,10 @@ Gallery of the minimum information dependence model
 
 * A. Poisson and Beta marginals with a negative interaction
 <img src="img/Figure_PoissonBeta.png" width="520px">
+
 * B. Exponential and Poisson marginals with a positive interaction
 <img src="img/Figure_ExponentialPoisson_positive.png" width="520px">
+
 * C. Exponential and Poisson marginals with a negative interaction
 <img src="img/Figure_ExponentialPoisson_negative.png" width="520px">
 
