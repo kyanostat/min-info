@@ -72,6 +72,8 @@ Our codes implement both estimation schemes as well as the uncertainty evaluatio
 * A. Graphical model of continuous and categorical data (with the consideration of higher interaction)
 
 We use Palmer Archipelago penguin data.
+
+<img src="img/Figure_mixedGraphicalmodel.png" width="520px">
  
 * B. Dependence pattern of the mechanism solutions (2-orthogonal frames) and the depths (real values)
 
