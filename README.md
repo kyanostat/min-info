@@ -69,19 +69,22 @@ Our codes implement both estimation schemes as well as the uncertainty evaluatio
 
 ### Gallery of the inference based on the minimum information dependence model
 
-* A. Graphical model of continuous and categorical data with the consideration of the second-order interactions
+#### A. Graphical model of continuous and categorical data with the consideration of the second-order interactions
 
-We apply our model to Palmer Archipelago penguin data.
+- We apply our model to Palmer Archipelago penguin data.
 
-Red nodes indicate categorical variables; Blue nodes indicate continuous variables.
+- Red nodes indicate categorical variables; Blue nodes indicate continuous variables.
 
-Red and green cycles indicate the top-2 second-order interationcs.
+- Red and green cycles indicate the top-2 second-order interationcs.
 
 <img src="img/Figure_MixedGraphicalmodel.png" width="520px">
  
-* B. Dependence pattern of the mechanism solutions (2-orthogonal frames) and the depths (real values)
+#### B. Dependence pattern of the mechanism solutions (2-orthogonal frames) and the depths (real values)
 
-We use the Japan meteorological agency catalog of earthquakes.
+- We apply our model to the Japan meteorological agency catalog of earthquakes.
+
+- aaa
+
 
 <img src="img/Figure_mechdepth.png" width="520px">
 
