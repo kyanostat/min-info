@@ -26,6 +26,11 @@ Abstract: We propose a method of constructing a joint statistical model for mixe
 - Each folder contains introductory codes
 - Each folder contains Mechsol_format.csv: Mechanism solution catalog (The original catalog is in the web page of Japan Meteological Agency and processed by the authors.)
 
+# Dependencies
+
+- R: 
+- Python: 
+
 # Brief summary of the minimum information dependence model
 
 ## 1. Minimum information dependence model
