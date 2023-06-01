@@ -28,8 +28,9 @@ Abstract: We propose a method of constructing a joint statistical model for mixe
 
 # Dependencies
 
-- R: 
-- Python: 
+- R: palmerpenguins 0.1.1
+
+- Python: sklearn.linear_model 
 
 # Brief summary of the minimum information dependence model
 
