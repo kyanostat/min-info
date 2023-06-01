@@ -54,6 +54,7 @@ Here are the properties of the model:
 * C. (positive number & count) Exponential and Poisson marginals with a negative interaction
 <img src="img/Figure_ExponentialPoisson_negative.png" width="520px">
 
+
 ## 2. Inference 
 
 
@@ -83,7 +84,11 @@ Our codes implement both estimation schemes as well as the uncertainty evaluatio
 
 - We apply our model to the Japan meteorological agency catalog of earthquakes.
 
-- aaa
+- Red axis indicate the axis along which the P-axes of the mechanism solutions has the highest positive dependence to the depths.
+
+- Black axis indicate the axis along which the P-axes of the mechanism solutions has the highest ngative dependence to the depths.
+
+- Yellow and green axes indicate their uncertainty of the estimation, respectively.
 
 
 <img src="img/Figure_mechdepth.png" width="520px">
