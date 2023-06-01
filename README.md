@@ -78,6 +78,8 @@ Our codes implement both estimation schemes as well as the uncertainty evaluatio
 
 - Red and green cycles indicate the top-2 second-order interationcs.
 
+- The figure is created by using NetworkX in Python.
+
 <img src="img/Figure_MixedGraphicalmodel.png" width="520px">
  
 #### B. Dependence pattern of the mechanism solutions (2-orthogonal frames) and the depths (real values)
@@ -95,5 +97,5 @@ Our codes implement both estimation schemes as well as the uncertainty evaluatio
 
 
 ## References:
--  JAPAN METEOROLOGICAL AGENCY (2022). The seismological bulletin of Japan. https://www.data.jma.go.jp/svd/eqev/data/bulletin/index_e.html.
 -  A. Horst, A. Hill, K. Gorman (2020). palmerpenguins: Palmer Archipelago (Antarctica) penguin data. R package version 0.1.0. https://allisonhorst.github.io/palmerpenguins/. doi: 10.5281/zenodo.3960218.
+-  JAPAN METEOROLOGICAL AGENCY (2022). The seismological bulletin of Japan. https://www.data.jma.go.jp/svd/eqev/data/bulletin/index_e.html.
