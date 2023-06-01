@@ -69,9 +69,13 @@ Our codes implement both estimation schemes as well as the uncertainty evaluatio
 
 ### Gallery of the inference based on the minimum information dependence model
 
-* A. Graphical model of continuous and categorical data (with the consideration of higher interaction)
+* A. Graphical model of continuous and categorical data with the consideration of the second-order interactions
 
-We use Palmer Archipelago penguin data (red nodes indicate categorical variables; blue nodes indicate continuous variables).
+We apply our model to Palmer Archipelago penguin data.
+
+Red nodes indicate categorical variables; Blue nodes indicate continuous variables.
+
+Red and green cycles indicate the top-2 second-order interationcs.
 
 <img src="img/Figure_MixedGraphicalmodel.png" width="520px">
  
