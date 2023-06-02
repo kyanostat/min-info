@@ -76,7 +76,7 @@ Our codes implement both estimation schemes as well as the uncertainty evaluatio
 
 ### Gallery of the inference based on the minimum information dependence model
 
-#### A. Graphical model of continuous and categorical data with the consideration of the second-order interactions
+#### A. Graphical model of continuous and categorical data with the consideration of the three-dimensional interactions
 
 - We apply our model to Palmer Archipelago penguin data.
 
