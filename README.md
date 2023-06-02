@@ -30,7 +30,7 @@ Abstract: We propose a method of constructing a joint statistical model for mixe
 
 - R: palmerpenguins 0.1.1
 
-- Python: sklearn.linear_model 
+- Python: sklearn 
 
 # Brief summary of the minimum information dependence model
 
@@ -82,7 +82,7 @@ Our codes implement both estimation schemes as well as the uncertainty evaluatio
 
 - Red nodes indicate categorical variables; Blue nodes indicate continuous variables.
 
-- Red and green cycles indicate the top-2 second-order interationcs.
+- Red and green cycles indicate the top-2 three-dimensional interationcs.
 
 - The figure is created by using NetworkX in Python.
 
