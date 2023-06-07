@@ -2,15 +2,15 @@
 
 (Written by Tomonari Sei and Keisuke Yano)
 
-This pape provides R and python codes for minimum information dependence models developed in the following paper:
+This page provides R and python codes for minimum information dependence models developed in the following paper:
 
 ==========================================================================
 
-Paper inforation: arXiv:2206.06792
+Paper information: arXiv:2206.06792
 
 Title: Minimum information dependence modeling
 
-Authors: Tomonari Sei (The university of Tokyo), Keisuke Yano (The institute of statistical mathematis)
+Authors: Tomonari Sei (The university of Tokyo), Keisuke Yano (The Institute of Statistical Mathematics)
 
 Abstract: We propose a method of constructing a joint statistical model for mixed-domain data to analyze their dependence. Multivariate Gaussian and log-linear models are particular examples of the proposed model. It is shown that the functional equation defining the model has a unique solution under fairly weak conditions. The model is characterized by two orthogonal sets of parameters: the dependence parameter and the marginal parameter. To estimate the dependence parameter, a conditional inference together with a sampling procedure is established and is shown to provide a consistent estimator of the dependence parameter. Illustrative examples of data analyses involving penguins and earthquakes are presented.
 
@@ -40,7 +40,7 @@ The minimum information dependence model is a joint model for a mixed-domain dat
 
 $p(x; \theta, \nu)=\exp(\theta^{\top}h(x)-\sum_{j=1,\ldots,d}a_{j}(x_j;\theta,\nu)-\psi(\theta,\nu))\prod_{j=1,\ldots,d}r_{j}(x_{j};\nu)$
 
-such that $a_{j}(x_j;\theta,\nu)$ and $\psi(\theta,\nu)$ are determined by mariginal condition $\int p(x;\theta,\nu)dx_{-j}=r_{j}(x_{j};\nu)$ and identifiability condition $\int \sum_{j=1,\ldots,d} a_{j}(x_{j};\theta,\nu) p(x;\theta,\nu)dx=0$.
+such that $a_{j}(x_j;\theta,\nu)$ and $\psi(\theta,\nu)$ are determined by marginal condition $\int p(x;\theta,\nu)dx_{-j}=r_{j}(x_{j};\nu)$ and identifiability condition $\int \sum_{j=1,\ldots,d} a_{j}(x_{j};\theta,\nu) p(x;\theta,\nu)dx=0$.
 
 Here are the properties of the model:
 
