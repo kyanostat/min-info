@@ -20,10 +20,11 @@ Abstract: We propose a method of constructing a joint statistical model for mixe
 # Codes 
 
 - min-info.R : definition of the functions used in R
-- min-info.py : definition of the functions used in Python
+- mininfo_v2.py : definition of the functions used in Python
+- **Note**: The file mininfo_v2.py contains an SGD-based optimization scheme designed to significantly accelerate the inference process (refer to shortnote.pdf for a detailed explanation). This implementation generally achieves a 25–30× speed-up over the conventional full-batch approach.
 - R folder: R codes 
 - Python folder: Python codes
-- Each folder contains introductory codes (min-info_introduction.R and min-info_introduction.ipynb)
+- Each folder contains introductory codes (min-info_introduction.R and min-info_introduction_public_v2.ipynb)
 - Each folder contains Mechsol_format.csv: Mechanism solution catalog (The original catalog is in the web page of Japan Meteological Agency and processed by the authors.)
 
 # Dependencies
