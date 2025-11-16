@@ -6,7 +6,8 @@ This page provides R and python codes for minimum information dependence models 
 
 ==========================================================================
 
-Paper information: arXiv:2206.06792
+Paper information: Tomonari Sei and Keisuke Yano, [Minimum information dependence modeling](https://projecteuclid.org/journals/bernoulli/volume-30/issue-4/Minimum-information-dependence-modeling/10.3150/23-BEJ1687.full), Bernoulli, vol.  30,  2623-2643, 2024 (DOI: 10.3150/23-BEJ1687; arXiv:2206.06792)
+
 
 Title: Minimum information dependence modeling
 
