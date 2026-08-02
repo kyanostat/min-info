@@ -92,16 +92,18 @@ There are two options for inference on the dependence parameter $\theta$:
 - Conditional likelihood estimation (CLE)
 - Besag's pseudo-likelihood estimation (PLE)
 
-CLE generally has better statistical performance but is computationally expensive. PLE is computationally less expensive, and the Python implementation provides an SGD-based option and bootstrap uncertainty evaluation.
+CLE generally has better statistical performance but is computationally expensive. 
+
+PLE is computationally less expensive, and the Python implementation provides an SGD-based option and bootstrap uncertainty evaluation.
 
 ### Gallery of inference results
 
 #### A. Recovery of the hidden ideal gas relation from synthetic data
 
-- The model is applied to synthetic data consisting of pressure $P$, volume $V$, inverse temperature $IT=1/T$, and two unrelated noise variables (U) and (W).
-- The data are generated to satisfy the ideal gas relation $P \times V \times IT = nR$, up to measurement noise.
+- The model is applied to synthetic data consisting of pressure $P$, volume $V$, inverse temperature $IT=1/T$, and two unrelated noise variables $U$ and $W$.
+- The data are generated to satisfy the ideal gas relation $P \times V \times IT = nR$.
 - The candidate canonical statistics include second-, third-, and fourth-order interaction terms.
-- The inference results recover $P \times V \times IT$ as the prominent dependence structure underlying the observed data.
+- The inference results recover $P \times V \times IT$ as the dominant dependence structure underlying the observed data.
 
 <img src="img/Figure_PVIT.png" width="520px">
 
