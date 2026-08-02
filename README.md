@@ -111,6 +111,9 @@ CLE generally has better statistical performance but is computationally expensiv
 - The candidate canonical statistics include second-, third-, and fourth-order interaction terms.
     
 - The inference results recover (P \times V \times IT) as the prominent dependence structure underlying the observed data.
+
+<img src="img/Figure_PVIT.png" width="520px">
+
 #### B. Graphical model for continuous and categorical penguin data
 
 - The model is applied to Palmer Archipelago penguin data.
