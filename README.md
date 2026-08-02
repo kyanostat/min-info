@@ -48,13 +48,7 @@ Bootstrap cells can be computationally intensive. A small value such as `B=10` i
 The minimum information dependence model is a joint model for mixed-domain data proposed by Sei and Yano:
 
 $$
-p(x; \theta, \nu)
-= \exp\left(
-\theta^{\top}h(x)
-- \sum_{j=1}^{d} a_j(x_j;\theta,\nu)
-- \psi(\theta,\nu)
-\right)
-\prod_{j=1}^{d} r_j(x_j;\nu).
+p(x; \theta, \nu)= \exp\left(\theta^{\top}h(x)- \sum_{j=1}^{d} a_j(x_j;\theta,\nu)- \psi(\theta,\nu)\right)\prod_{j=1}^{d} r_j(x_j;\nu).
 $$
 
 The functions $a_j(x_j;\theta,\nu)$ and $\psi(\theta,\nu)$ are determined by the marginal conditions
